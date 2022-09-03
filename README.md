@@ -1,2 +1,2 @@
 # Mission-to-Mars
-Mod 10
+https://vrynerson.github.io/Mission-to-Mars/
